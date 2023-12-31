@@ -1,4 +1,12 @@
-Allyson,5581982793525
-Iago,5581982793525
-Allyson,5581982793525
-Iago,5581982793525
+Allyson,5581982793525,Traceback (most recent call last):
+  File "c:\Users\Iago Lima\Desktop\Guaiamum Figital\Projeto 1 - bot whatsapp\app.py", line 33, in <module>
+    webbrowser.open(link_mensagem_whatsapp)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'link_mensagem_whatsapp' is not defined
+,31-12-2023 10:40:47
+Iago,5581982793525,Traceback (most recent call last):
+  File "c:\Users\Iago Lima\Desktop\Guaiamum Figital\Projeto 1 - bot whatsapp\app.py", line 33, in <module>
+    webbrowser.open(link_mensagem_whatsapp)
+                    ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'link_mensagem_whatsapp' is not defined
+,31-12-2023 10:40:47
